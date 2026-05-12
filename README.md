@@ -12,7 +12,4 @@ Hello, I'm Rafael! A software developer with a background in game dev, cloud eng
 ![](https://streak-stats.demolab.com/?user=RafaelBoceanu&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=RafaelBoceanu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=RafaelBoceanu&icon=5&color=3)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
